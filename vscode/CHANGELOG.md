@@ -1,3 +1,3 @@
-# CHANGELOG
+## What Changed
 
-- update image versions
+Initial release 🎉 
