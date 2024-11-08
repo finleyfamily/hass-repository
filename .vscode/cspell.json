@@ -1,5 +1,8 @@
 {
     "allowCompoundWords": true,
+    "ignorePaths": [
+        "**/CHANGELOG.md"
+    ],
     "import": [
         "@itprokyle/cspell-dict/cspell-ext.json"
     ],
