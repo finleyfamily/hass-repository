@@ -2,4 +2,5 @@
 
 ### 🧶 Dependencies
 
-- install sudo @ITProKyle (#54)
+- install bat @ITProKyle (#55)
+- install direnv @ITProKyle (#56)
