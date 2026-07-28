@@ -1,5 +1,5 @@
 channel: stable
-addons:
+apps:
   vscode:
     repository: finleyfamily/hass-addon-vscode
     target: vscode
