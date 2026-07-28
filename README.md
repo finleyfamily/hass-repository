@@ -1,16 +1,16 @@
-# Finley Family Home Assistant Add-ons
+# Finley Family Home Assistant Apps
 
 ![project stage][project-stage-shield]
 ![maintenance][maintenance-shield]
 [![license][license-shield]](./LICENSE)
 
-[Home Assistant] allows anyone to create add-on repositories to share their add-ons for [Home Assistant] easily.
-This repository is one of those repositories, providing extra [Home Assistant] add-ons for your installation.
+[Home Assistant] allows anyone to create app repositories to share their apps for [Home Assistant] easily.
+This repository is one of those repositories, providing extra [Home Assistant] apps for your installation.
 
 ## Installation
 
-Adding this add-ons repository to your [Home Assistant] instance is pretty straightforward.
-In the [Home Assistant] add-on store, a possibility to add a repository is provided.
+Adding this app repository to your [Home Assistant] instance is pretty straightforward.
+In the [Home Assistant] app store, a possibility to add a repository is provided.
 
 Use the following URL to add this repository:
 
@@ -18,31 +18,31 @@ Use the following URL to add this repository:
 https://github.com/finleyfamily/hass-repository
 ```
 
-## Add-ons Provided By This Repository
+## Apps Provided By This Repository
 
-### &#10003; [vscode][addon-vscode]
+### &#10003; [vscode][app-vscode]
 
 ![Latest Version][vscode-version-shield]
 ![Supports amd64 Architecture][vscode-amd64-shield]
 
 Fully featured Visual Studio Code (vscode) experience integrated into the Home Assistant frontend.
 
-[:books: vscode add-on documentation][addon-doc-vscode]
+[:books: vscode app documentation][app-doc-vscode]
 
 ## Releases
 
-Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike all our other repositories.
-The latest build commit SHA hash of each add-on, represents the version number.
+App releases are **NOT** based on [Semantic Versioning][semver], unlike all our other repositories.
+The latest build commit SHA hash of each app, represents the version number.
 
 ## Support
 
 Got questions?
 
 Open an [issue on GitHub][issues].
-Note, we use a separate GitHub repository for each add-on.
-Please ensure you are creating the issue on the correct GitHub repository matching the add-on.
+Note, we use a separate GitHub repository for each app.
+Please ensure you are creating the issue on the correct GitHub repository matching the app.
 
-- [Open an issue for the add-on: vscode][vscode-issue]
+- [Open an issue for the app: vscode][vscode-issue]
 
 ## Contributing
 
@@ -53,12 +53,12 @@ We have set up a separate document containing our [contribution guidelines](CONT
 
 Thank you for being involved!
 
-## Adding A New Add-on
+## Adding A New App
 
-We are currently not accepting third party add-ons to this repository.
+We are currently not accepting third party apps to this repository.
 
-[addon-vscode]: https://github.com/finleyfamily/hass-addon-vscode/tree/v1.3.0
-[addon-doc-vscode]: https://github.com/finleyfamily/hass-addon-vscode/blob/v1.3.0/README.md
+[app-vscode]: https://github.com/finleyfamily/hass-addon-vscode/tree/v1.3.0
+[app-doc-vscode]: https://github.com/finleyfamily/hass-addon-vscode/blob/v1.3.0/README.md
 [vscode-issue]: https://github.com/finleyfamily/hass-addon-vscode/issues
 [vscode-version-shield]: https://img.shields.io/badge/version-v1.3.0-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
