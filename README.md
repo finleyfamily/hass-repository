@@ -57,10 +57,10 @@ Thank you for being involved!
 
 We are currently not accepting third party apps to this repository.
 
-[app-vscode]: https://github.com/finleyfamily/hass-addon-vscode/tree/v1.3.0
-[app-doc-vscode]: https://github.com/finleyfamily/hass-addon-vscode/blob/v1.3.0/README.md
+[app-vscode]: https://github.com/finleyfamily/hass-addon-vscode/tree/v1.4.0
+[app-doc-vscode]: https://github.com/finleyfamily/hass-addon-vscode/blob/v1.4.0/README.md
 [vscode-issue]: https://github.com/finleyfamily/hass-addon-vscode/issues
-[vscode-version-shield]: https://img.shields.io/badge/version-v1.3.0-blue.svg
+[vscode-version-shield]: https://img.shields.io/badge/version-v1.4.0-blue.svg
 [vscode-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [vscode-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [vscode-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
